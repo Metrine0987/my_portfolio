@@ -23,6 +23,6 @@ To view the portfolio locally:
 
 <!-- Contact Me  -->
 - Email: metrine.regina@gmail.com  
-- LinkedIn:** [My LinkedIn](https://www.linkedin.com/metrine-reginah-447a07287)  
-- GitHub:** [My GitHub](https://github.com/Metrine0987)  
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/metrine-reginah-447a07287)  
+- GitHub: [My GitHub](https://github.com/Metrine0987)  
 
